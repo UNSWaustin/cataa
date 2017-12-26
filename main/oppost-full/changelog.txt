@@ -1,0 +1,4 @@
+*** Changelog - oPPost Website Template ***
+
+2016.03.31 - version 1.0
+	* First release!
